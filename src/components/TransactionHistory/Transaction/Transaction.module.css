@@ -1,0 +1,14 @@
+
+  .type {
+    background-color: rgba(29, 32, 29, 0.1);
+    font-weight: 600;
+  }
+  
+  .amount {
+    background-color: rgba(180, 221, 159, 0.1);
+    font-style: italic;
+  }
+  
+  .currency {
+    background-color: rgba(161, 141, 205, 0.1);
+  }

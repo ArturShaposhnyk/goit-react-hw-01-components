@@ -1,0 +1,25 @@
+.transactionHistory {
+  width: 700px;
+  border: 2px solid grey;
+
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+td,
+th {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.amount {
+  background-color: rgba(173, 230, 196, 0.3);
+}
+
+.currency {
+  background-color: rgba(219, 203, 255, 0.3);
+}
+
+.type {
+  background-color: rgba(48, 50, 48, 0.3);
+}
